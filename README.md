@@ -1,4 +1,4 @@
-# Resume/CV Project
+# Resume/CV Example
 
 It's built with SASS, JS and HTML 
 
